@@ -1,0 +1,14 @@
+# Dependencias principales
+requests==2.31.0
+matplotlib==3.7.2
+python-dotenv==1.0.0
+
+# Para la interfaz web (Streamlit)
+streamlit==1.27.0
+
+# Para notificaciones por email (opcional)
+secure-smtplib==0.1.1
+
+# Para testing (opcional)
+pytest==7.4.0
+httpx==0.24.1
